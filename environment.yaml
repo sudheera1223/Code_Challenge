@@ -1,0 +1,6 @@
+name: user-profiles
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - Flask==1.0.2
